@@ -67,10 +67,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# SQLite database files
-*.db
-*.sqlite3
-
 # VS Code settings
 .vscode/
 

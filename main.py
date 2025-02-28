@@ -54,6 +54,10 @@ def get_random_questions(
     random.shuffle(questions)  # Mezclamos preguntas
     questions = questions[:amount]  # Limitamos la cantidad solicitada
 
+    # Verifica si hay preguntas en la base de datos
+    if not questions:
+        raise HTTPException(status_code=404, detail="No se encontraron preguntas")
+
     # Mezclar opciones de respuesta
     formatted_questions = []
     for q in questions:
