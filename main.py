@@ -5,6 +5,8 @@ from database import SessionLocal, Question
 from models import Score
 from pydantic import BaseModel
 from typing import List, Optional
+import os
+import uvicorn
 
 app = FastAPI()
 
@@ -176,6 +178,10 @@ def get_score(username: str, db: Session = Depends(get_db)):
         raise HTTPException(status_code=404, detail="Usuario no encontrado")
 
     return {"username": username, "points": user_score.points}
+
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000))  # Railway asigna un puerto dinámico
+    uvicorn.run(app, host="0.0.0.0", port=port)
 
 
 
