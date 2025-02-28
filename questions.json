@@ -1,0 +1,355 @@
+{
+    "questions": [
+        {
+            "saga": "East Blue",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién fue el primer miembro en unirse a la tripulación de Luffy?",
+            "correct_answer": "Zoro",
+            "incorrect_answers": ["Sanji", "Nami", "Usopp"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy derrotó a Buggy el Payaso en su primer enfrentamiento?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Poderes",
+            "difficulty": "medium",
+            "type": "multiple",
+            "question": "¿Qué fruta del diablo tiene Buggy el Payaso?",
+            "correct_answer": "Bara Bara no Mi",
+            "incorrect_answers": ["Gomu Gomu no Mi", "Bomu Bomu no Mi", "Suke Suke no Mi"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién es el cocinero de la tripulación de Luffy?",
+            "correct_answer": "Sanji",
+            "incorrect_answers": ["Zoro", "Usopp", "Nami"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Nami se unió a la tripulación de Luffy en el arco de Arlong Park?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Poderes",
+            "difficulty": "medium",
+            "type": "multiple",
+            "question": "¿Qué fruta del diablo tiene Alvida después de su transformación?",
+            "correct_answer": "Sube Sube no Mi",
+            "incorrect_answers": ["Bara Bara no Mi", "Gomu Gomu no Mi", "Bomu Bomu no Mi"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién es el francotirador de la tripulación de Luffy?",
+            "correct_answer": "Usopp",
+            "incorrect_answers": ["Zoro", "Sanji", "Nami"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Historia",
+            "difficulty": "hard",
+            "type": "multiple",
+            "question": "¿De cuanto es la recompensa de Higuma, el bandido de la montaña?",
+            "correct_answer": "8.000.000",
+            "incorrect_answers": ["4.000.000", "7.000.000", "1.500.000"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Historia",
+            "difficulty": "hard",
+            "type": "multiple",
+            "question": "¿Como se llama la tribu que derrotó a los piratas de Buggy?",
+            "correct_answer": "Tribu Kumate",
+            "incorrect_answers": ["Tribu Kamuju", "Tribu Tolteca", "Tribu Poneglyph"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy salvó a Zoro de ser ejecutado por la Marina?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Poderes",
+            "difficulty": "medium",
+            "type": "multiple",
+            "question": "¿Qué fruta del diablo tiene Smoker?",
+            "correct_answer": "Moku Moku no Mi",
+            "incorrect_answers": ["Gomu Gomu no Mi", "Hie Hie no Mi", "Mera Mera no Mi"]
+        },
+        {
+            "saga": "East Blue",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién es el capitán de la tripulación de Luffy?",
+            "correct_answer": "Luffy",
+            "incorrect_answers": ["Zoro", "Sanji", "Usopp"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy derrotó a Crocodile en su primer enfrentamiento?",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "saga": "Marineford",
+            "category": "Poderes",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Qué fruta del diablo tiene Bartholomew Kuma?",
+            "correct_answer": "Nikyu Nikyu no Mi",
+            "incorrect_answers": ["Bara Bara no Mi", "Bomu Bomu no Mi", "Tori Tori no Mi"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Historia",
+            "difficulty": "easy",
+            "type": "boolean",
+            "question": "¿Enel fue derrotado por Luffy en Skypiea?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Historia",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién es el dios de Skypiea?",
+            "correct_answer": "Enel",
+            "incorrect_answers": ["Gan Fall", "Luffy", "Zoro"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy derrotó a Enel usando goma?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién encontró el Poneglyph en Skypiea?",
+            "correct_answer": "Robin",
+            "incorrect_answers": ["Nami", "Luffy", "Zoro"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Enel planeaba destruir Skypiea?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Poderes",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Qué fruta del diablo tiene Enel?",
+            "correct_answer": "Goro Goro no Mi",
+            "incorrect_answers": ["Gomu Gomu no Mi", "Mera Mera no Mi", "Hie Hie no Mi"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy usó su Gear Second en Skypiea?",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién ayudó a Luffy a derrotar a Enel?",
+            "correct_answer": "Nami",
+            "incorrect_answers": ["Zoro", "Sanji", "Usopp"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy y su tripulación encontraron oro en Skypiea?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Poderes",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Qué habilidad tiene la fruta del diablo de Enel?",
+            "correct_answer": "Controlar la electricidad",
+            "incorrect_answers": ["Controlar el fuego", "Controlar el hielo", "Controlar el agua"]
+        },
+        {
+            "saga": "Skypiea",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy usó su Gear Third en Skypiea?",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "saga": "Dressrosa",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién derrotó a Doflamingo en Dressrosa?",
+            "correct_answer": "Luffy",
+            "incorrect_answers": ["Law", "Zoro", "Sanji"]
+        },
+        {
+            "saga": "Whole Cake Island",
+            "category": "Poderes",
+            "difficulty": "medium",
+            "type": "multiple",
+            "question": "¿Qué fruta del diablo tiene Charlotte Katakuri?",
+            "correct_answer": "Mochi Mochi no Mi",
+            "incorrect_answers": ["Gomu Gomu no Mi", "Hie Hie no Mi", "Mera Mera no Mi"]
+        },
+        {
+            "saga": "Wano",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Kaido es conocido como la criatura más fuerte del mundo?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "Punk Hazard",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién se unió a la tripulación de Luffy en Punk Hazard?",
+            "correct_answer": "Ninguna es Correcta",
+            "incorrect_answers": ["Law", "Caesar", "Kin'emon"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Historia",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién es la princesa de Alabasta?",
+            "correct_answer": "Vivi",
+            "incorrect_answers": ["Nami", "Robin", "Hancock"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Crocodile es uno de los Shichibukai?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién ayudó a Luffy a derrotar a Crocodile?",
+            "correct_answer": "Robin",
+            "incorrect_answers": ["Vivi", "Sanji", "Zoro"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy usó agua para combatir a Crocodile?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Poderes",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Qué fruta del diablo tiene Crocodile?",
+            "correct_answer": "Suna Suna no Mi",
+            "incorrect_answers": ["Gomu Gomu no Mi", "Mera Mera no Mi", "Hie Hie no Mi"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Vivi es nakama de Luffy?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Tripulación",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Quién es el líder de los Rebeldes en Alabasta?",
+            "correct_answer": "Kohza",
+            "incorrect_answers": ["Igaram", "Chaka", "Pell"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy derrotó a Crocodile en su tercer enfrentamiento?",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Poderes",
+            "difficulty": "easy",
+            "type": "multiple",
+            "question": "¿Qué habilidad tiene la fruta del diablo de Crocodile?",
+            "correct_answer": "Controlar la arena",
+            "incorrect_answers": ["Controlar el fuego", "Controlar el hielo", "Controlar el agua"]
+        },
+        {
+            "saga": "Alabasta",
+            "category": "Historia",
+            "difficulty": "medium",
+            "type": "boolean",
+            "question": "¿Luffy usó su Gear Second en Alabasta?",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        }
+    ]
+}
