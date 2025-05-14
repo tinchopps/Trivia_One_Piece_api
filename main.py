@@ -7,8 +7,19 @@ from pydantic import BaseModel
 from typing import List, Optional
 import os
 import uvicorn
+from fastapi.middleware.cors import CORSMiddleware
 
+# ✅ PRIMERO crear la app
 app = FastAPI()
+
+# ✅ LUEGO agregar el middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # O podés poner tu dominio específico
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 class QuestionCreate(BaseModel):
     saga: str
